@@ -1,8 +1,10 @@
 ## Interface: 11200
 ## Title: ZHunterMod
 ## Notes: Includes several features to make a hunter's life easier.
+## Notes-ruRU: Включает в себя несколько функций, которые упрощают жизнь охотникам.
 ## SavedVariablesPerCharacter: ZHunterMod_Saved
 Localization.EN.lua
+Localization.RU.lua
 Localization.FR.lua
 Localization.DE.lua
 Bindings.xml
